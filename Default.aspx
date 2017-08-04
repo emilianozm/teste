@@ -15,7 +15,7 @@ Inherits="_Default" %>
       
 
    
-   <script src="Scripts/jquery-1.4.1.js" type="text/javascript"></script>
+   <script src="jquery-1.4.1.js" type="text/javascript"></script>
    
    
    
